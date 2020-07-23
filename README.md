@@ -1,4 +1,4 @@
-# Simplel-NodeJS-RestAPI-Manage-Accounts
+# Simple-NodeJS-RestAPI-Manage-Accounts
 
 Made with NodeJS - Express - with MVC model
 
