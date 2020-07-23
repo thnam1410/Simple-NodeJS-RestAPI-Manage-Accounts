@@ -1,6 +1,6 @@
 # Simple-NodeJS-RestAPI-Manage-Accounts
 
-Made with NodeJS - Express - with MVC model
+Made with NodeJS - Express - MongoDB - with MVC model
 
 # Requirements
 
